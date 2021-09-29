@@ -1,1 +1,34 @@
-# Code Refactor Starter Code
+# Project Title: Horiseon- HTML and CSS Basic Web Page
+![Horiseon Website](assets/images/horiseon-screen-shot.png)
+## Description
+One page webside designed for Horiseon Marketing Firm to highlight their capabilities.  This installation uses HTML and CSS.
+### features
+ * Basic HTML and CSS
+ * Best viewed laptop or desktop
+### future features
+ * Use of Advanced CSS
+ * Formatted for Mobility
+ * Additional pages to describe companies offerings
+ * Contact Us
+ * Social Media Connections
+
+## Executing Program
+If you would like to view the Horiseon site, you can access via the GIT Hub Repository or directing via the URL of the depolyed website.  Best view on laptop, ipad or desktop.
+## Help
+## Authors
+## Version History
+1.0 Initialize Code
+1.1 Refactor html semantic elements header and nav section
+1.2 Refactor html semantic elements main section- verified links
+1.3 Refactor html semantic elements aside and footer
+1.4 All images and icons to accessability standards
+1.5 Title Element Description to better fit Horiseon seo focus
+1.6 CSS consolidation to avoid duplcate classes and take advantage of cascading- CSS comments
+
+
+
+2.0 Final Project Submission
+## License
+N/A
+## Acknowledgements
+Shout out to the UConn bootcamp instrucotr, TA's and my tutor for their help in setting a great foundation, finding bugs, sharign short cuts and giving advice on best practices.
